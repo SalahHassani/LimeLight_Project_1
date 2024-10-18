@@ -248,7 +248,7 @@ body {
 }
  */
 
-
+/* 
  $accent-color: #355cc9;
 $button-color: #ff0000;  // Updated button color
 $button-hover-color: darken($button-color, 10%); // Darker shade for hover effect
@@ -479,4 +479,4 @@ body {
 
 ::-webkit-scrollbar-thumb:hover {
 	background: $accent-color;
-}
+} */
